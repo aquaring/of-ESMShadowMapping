@@ -81,7 +81,8 @@ void testApp::drawObjects() {
     // draw our boxes
     vector<Box>::iterator it;
     for ( it=m_boxes.begin() ; it < m_boxes.end(); it++ ) {
-       ofBox( it->pos, it->size );
+       //ofBox( it->pos, it->size );
+        ofSphere( it->pos, 0.5 );
     }
 }
 
