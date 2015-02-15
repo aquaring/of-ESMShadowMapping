@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1F48198-1FC8-4A1E-BFD6-AF98DE60D117</string>
+	<key>IDESourceControlProjectName</key>
+	<string>of_ESMShadowMapping</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F4B1A48B3B491FCA967614CD8D2B2CC6DC8CD3D</key>
+		<string>https://github.com/ya-s-u/of-ESMShadowMapping.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>of_ESMShadowMapping.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F4B1A48B3B491FCA967614CD8D2B2CC6DC8CD3D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ya-s-u/of-ESMShadowMapping.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F4B1A48B3B491FCA967614CD8D2B2CC6DC8CD3D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F4B1A48B3B491FCA967614CD8D2B2CC6DC8CD3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>of-ESMShadowMapping2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
